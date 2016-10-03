@@ -1,0 +1,14 @@
+{
+  "name": "serial-cereal",
+  "version": "1.0.0",
+  "description": "USB stuffs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^4.0.1"
+  }
+}
